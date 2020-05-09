@@ -11,5 +11,6 @@ public class FirstGit {
     }
     public void test(){
         int i=0;
+        int a=1;
     }
 }
